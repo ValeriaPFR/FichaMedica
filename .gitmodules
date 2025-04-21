@@ -1,0 +1,3 @@
+[submodule "Ficha_Medica/Formulariomedico"]
+	path = Ficha_Medica/Formulariomedico
+	url = https://github.com/ValeriaPFR/Formulariomedico.git
